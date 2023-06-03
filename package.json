@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://15.188.79.11:9980/mithuntechnologies/repository/citibank/"
+    "registry": "http://18.220.108.164:8081/repository/wallmart-nodejs/"
   },
   
   "scripts": {
